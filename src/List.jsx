@@ -11,7 +11,7 @@ function List() {
 	return (
 		<div className="relative bg-[#1B1D1F] max-w-sm mx-auto border py-12 px-7 text-center rounded-xl overflow-hidden sm:max-w-md sm:px-12 md:max-w-xl lg:max-w-2xl xl:max-w-4xl lg:pt-20">
 			<img
-				src="public/vector.svg"
+				src="/vector.svg"
 				className="absolute top-0 right-17 lg:right-24 lg:top-7 object-contain opacity-50 pointer-events-none xl:right-40"
 			/>
 

@@ -79,9 +79,9 @@ function Item() {
 								<div className="flex justify-between items-center">
 									<div className="flex items-center gap-1">
 										{s.rating !== null ? (
-											<img src="public/Star_fill.svg" className="mb-0.5" />
+											<img src="/Star_fill.svg" className="mb-0.5" />
 										) : (
-											<img src="public/Star.svg" className="mb-0.5" />
+											<img src="/Star.svg" className="mb-0.5" />
 										)}
 										{s.rating !== null ? (
 											<p className="text-[#FEF7EE] font-semibold text-[14px]">
